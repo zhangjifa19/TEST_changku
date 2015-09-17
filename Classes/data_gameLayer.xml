@@ -1,0 +1,14 @@
+<Tests>
+    <test>
+        <Level>0</Level>
+        <Score>51</Score>
+    </test>
+    <test>
+        <Level>1</Level>
+        <Score>52</Score>
+    </test>
+    <test>
+        <Level>2</Level>
+        <Score>53</Score>
+    </test>
+</Tests>
