@@ -4,6 +4,7 @@
 #include "GameLayer.h"
 
 USING_NS_CC;
+//khkbhdfsgadfsghdfsh
 
 AppDelegate::AppDelegate() {
 
